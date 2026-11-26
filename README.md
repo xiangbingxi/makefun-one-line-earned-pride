@@ -2,11 +2,11 @@
 
 One line, 120 characters, written to `/output/entry.txt` by `main.py`.
 
-Competition: https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557
+Competition: [Competition](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
 
 [![Bounty](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Rank](https://make.fun/u-mang-one-line-of-earned-pride-a0138557/xiangbingxi/makefun-one-line-earned-pride/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Reward](https://make.fun/u-mang-one-line-of-earned-pride-a0138557/xiangbingxi/makefun-one-line-earned-pride/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
+[![Rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/xiangbingxi/makefun-one-line-earned-pride/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
+[![Reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/xiangbingxi/makefun-one-line-earned-pride/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
 
 ## Entry
 
